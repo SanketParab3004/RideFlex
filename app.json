@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "RideFlex",
+    "slug": "RideFlex",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      
+      "package": "com.georgian.rideflex"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c9b1adbc-bd3a-4794-9c7c-c0703fae4025"
+      }
+    }
+  }
+}
