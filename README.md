@@ -155,6 +155,6 @@ Special thanks to all contributors and the open-source community for their suppo
 ## Contact
 
 For inquiries or feedback, please reach out via:
-- **Email**: sanketparab3004@example.com
+- **Email**: sanket3004@gmail.com
 - **GitHub**: [SanketParab3004](https://github.com/SanketParab3004)
 
