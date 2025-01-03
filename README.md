@@ -140,12 +140,6 @@ Contributions to RideFlex are welcome! Follow these steps to contribute:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## Acknowledgements
 
 Special thanks to all contributors and the open-source community for their support and resources used in developing RideFlex.
